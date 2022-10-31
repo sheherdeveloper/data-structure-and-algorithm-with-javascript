@@ -3,4 +3,4 @@
 
 ## Table of Contents
 
-- Big O Notation
+- [Big O Notation](https://github.com/sheherdeveloper/data-structure-and-algorithm-with-javascript/blob/big-o-notation/Big-O-Notation)
